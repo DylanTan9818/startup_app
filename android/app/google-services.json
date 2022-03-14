@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "140787772018",
+    "firebase_url": "https://sports-5378c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sports-5378c",
+    "storage_bucket": "sports-5378c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140787772018:android:2485f4c8a214b9146270eb",
+        "android_client_info": {
+          "package_name": "com.example.sports_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140787772018-kdmmcs9qvmfgd6ca83bia6djps8oue3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPyRLtI12Zlz-w85jjeBD4V4wj_SKttw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140787772018-kdmmcs9qvmfgd6ca83bia6djps8oue3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140787772018:android:ff320feffb2d62516270eb",
+        "android_client_info": {
+          "package_name": "com.example.startup_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140787772018-kdmmcs9qvmfgd6ca83bia6djps8oue3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPyRLtI12Zlz-w85jjeBD4V4wj_SKttw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140787772018-kdmmcs9qvmfgd6ca83bia6djps8oue3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
